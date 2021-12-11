@@ -1,6 +1,4 @@
 
-9
-	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 `
 0src/test/java/br/com/seteideias/StartupTest.java,1\2\1200190a7975c9f29e235d51843c1bdef0e0d092
 \
