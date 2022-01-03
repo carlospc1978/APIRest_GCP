@@ -29,7 +29,7 @@ public class GreetingController {
 
 	@RequestMapping("/teste")
 	public String teste() {
-		return "<html><font size=20><br>" +
+		return "<html><font size=10><br>" +
 				"ola ola --- estou em teste --->" +hello+
 				"</font></html>";
 	}
@@ -66,6 +66,11 @@ public class GreetingController {
 		}catch (Exception e){
 			return false;
 		}
+	}
+
+	@RequestMapping(value = "/new/{texto}")
+	public String novoEnd(@PathVariable(value = "texto") String texto){
+		return texto;
 	}
 
 }
