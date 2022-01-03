@@ -8,6 +8,11 @@
             <set />
           </value>
         </entry>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="/dummy.js">
           <value>
             <set />
@@ -19,6 +24,11 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/application.properties">
           <value>
             <set />
           </value>
@@ -53,12 +63,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/br/com/seteideias/br/com/seteideias/exception/ExceptionResponse.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/br/com/seteideias/br/com/seteideias/exception/UnsuportedMathOperation.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/br/com/seteideias/br/com/seteideias/exception/UnsuportedMathOperationException.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/br/com/seteideias/br/com/seteideias/exception/exception.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/br/com/seteideias/exception.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/src/test/java/br/com/erudio/StartupTest.java">
           <value>
             <set />
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/src/test/java/br/com/seteideias/StartupTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../Praticando/src/main/java/AAA_lacosDeRepeticao.java">
           <value>
             <set />
           </value>
@@ -73,7 +113,42 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/../springOpenShift/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../springOpenShift/src/main/java/br/com/seteideias/springopenshift/SpringOpenShiftApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender/build.gradle">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender/src/main/java/br/com/lojasrenner/rlog/order/tracking/sender/entity/NotifiedDetail.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender/src/main/java/br/com/lojasrenner/rlog/order/tracking/sender/entity/TransportOrderTracking.java">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender/src/main/java/br/com/lojasrenner/rlog/order/tracking/sender/service/OrderTrackingService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender/src/main/resources/application-devlocal.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../fcamara/rlog-transport-order-tracking-sender/src/test/java/br/com/lojasrenner/rlog/order/tracking/sender/service/OrderTrackingServiceTest.java">
           <value>
             <set />
           </value>
